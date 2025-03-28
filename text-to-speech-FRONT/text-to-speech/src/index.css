@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+width: 100%;
+background: rgb(35,114,153);
+background: linear-gradient(360deg, rgba(35,114,153,1) 53%, rgba(28,138,166,1) 83%);
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  
+  font-family: 'Courier New', Courier, monospace;
+}
+
